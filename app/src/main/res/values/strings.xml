@@ -21,6 +21,6 @@
     <string name="credit_debit_card">Credit/Debit Card</string>
     <string name="can_t_pay_talk_to_your_landlord">Can\'t pay? Talk to your landlord</string>
     <string name="no_fees">(No Fees)</string>
-    <string name="plus_3_processing_fee">(Plus 3% Processing Fee)</string>
+    <string name="plus_3_processing_fee_">(Plus 3% Processing Fee)</string>
 
 </resources>
