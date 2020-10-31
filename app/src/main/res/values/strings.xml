@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Rent Collect New</string>
+    <string name="land_lord">Land Lord</string>
+    <string name="tenent">Tenent</string>
+    <string name="you_are_a">You Are A</string>
+    <string name="terms_and_conditions">By using this application, you are agreeing to receive some notices exclusively electronically, including notifications about late payments, notices to quit, and eviction notices. You are also agreeing to our Privacy Policy and Terms of Use</string>
+    <string name="phone_number">Your Phone Number</string>
+    <string name="dash">-</string>
+    <string name="bracket_close">)</string>
+    <string name="bracket_opening">(</string>
+    <string name="tenant_name">Tenant Name</string>
+    <string name="_811_pine_st_2">811 Pine St #2</string>
+    <string name="los_angeles_ca_90505">Los Angeles, CA 90505</string>
+    <string name="not_you"><u>(Not you?)</u></string>
+    <string name="don_t_worry">Don\'t worry. Your landlord may have not finished setting up your account yet. Give them a call and let them know you\'d like to pay your rent with RentCollect with automatic payments to their bank account and absolutely no fees.</string>
+    <string name="text_them_the_download_link_now"><u>Text them the download link now</u></string>
+    <string name="total_due">Total Due:</string>
+    <string name="_3520">$3520</string>
+    <string name="how_would_you_like_to_pay">How would you like to pay?</string>
+    <string name="bank_transfer">Bank Transfer</string>
+    <string name="credit_debit_card">Credit/Debit Card</string>
+    <string name="can_t_pay_talk_to_your_landlord">Can\'t pay? Talk to your landlord</string>
+    <string name="no_fees">(No Fees)</string>
+    <string name="plus_3_processing_fee">(Plus 3% Processing Fee)</string>
+
+</resources>
