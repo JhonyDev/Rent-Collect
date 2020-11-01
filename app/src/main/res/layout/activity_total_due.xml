@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".TotalDue">
+    tools:context=".activities.TotalDue">
 
     <TextView
         android:id="@+id/textView3"
@@ -73,6 +73,7 @@
         android:layout_marginTop="21dp"
         android:background="@drawable/button_background"
         android:paddingHorizontal="20dp"
+        android:onClick="nextActivity"
         android:paddingVertical="8dp"
         android:textAlignment="textStart"
         android:textAllCaps="false"
@@ -129,15 +130,15 @@
         android:textColor="@color/blue_grey"
         app:layout_constraintBottom_toBottomOf="@+id/button3"
         app:layout_constraintEnd_toEndOf="@+id/button3"
-        app:layout_constraintStart_toStartOf="@+id/button3"
+        app:layout_constraintHorizontal_bias="0.09"
+        app:layout_constraintStart_toEndOf="@+id/textView16"
         app:layout_constraintTop_toTopOf="@+id/button3"
-        app:layout_constraintVertical_bias="0.384" />
+        app:layout_constraintVertical_bias="0.461" />
 
     <TextView
         android:id="@+id/textView15"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="5dp"
         android:gravity="center"
         android:minHeight="30dp"
         android:paddingStart="5dp"
@@ -145,8 +146,7 @@
         android:textColor="@color/blue_grey"
         app:layout_constraintBottom_toBottomOf="@+id/button4"
         app:layout_constraintEnd_toEndOf="@+id/button4"
-        app:layout_constraintHorizontal_bias="0.927"
-        app:layout_constraintStart_toStartOf="@+id/button4"
+        app:layout_constraintStart_toEndOf="@+id/textView17"
         app:layout_constraintTop_toTopOf="@+id/button4"
         app:layout_constraintVertical_bias="0.461" />
 
@@ -155,15 +155,13 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
+        android:gravity="center"
+        android:minHeight="30dp"
         android:text="@string/bank_transfer"
         android:textColor="@color/blue_grey"
         android:textSize="20sp"
-        android:minHeight="30dp"
-        android:gravity="center"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="@+id/button3"
-        app:layout_constraintEnd_toStartOf="@+id/textView14"
-        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="@+id/button3"
         app:layout_constraintTop_toTopOf="@+id/button3"
         app:layout_constraintVertical_bias="0.437" />
@@ -173,15 +171,13 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
+        android:gravity="center"
+        android:minHeight="30dp"
         android:text="@string/credit_debit_card"
         android:textColor="@color/blue_grey"
         android:textSize="20sp"
         android:textStyle="bold"
-        android:minHeight="30dp"
-        android:gravity="center"
         app:layout_constraintBottom_toBottomOf="@+id/button4"
-        app:layout_constraintEnd_toStartOf="@+id/textView15"
-        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="@+id/button4"
         app:layout_constraintTop_toTopOf="@+id/button4"
         app:layout_constraintVertical_bias="0.437" />

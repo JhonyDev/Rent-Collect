@@ -22,5 +22,37 @@
     <string name="can_t_pay_talk_to_your_landlord">Can\'t pay? Talk to your landlord</string>
     <string name="no_fees">(No Fees)</string>
     <string name="plus_3_processing_fee_">(Plus 3% Processing Fee)</string>
+    <string name="upcoming_rent">Upcoming Rent:</string>
+    <string name="november_rent">November rent:</string>
+    <string name="unpaid_rent">Unpaid Rent:</string>
+    <string name="october_rent">October rent</string>
+    <string name="september_rent">September rent</string>
+    <string name="august_rent">August rent</string>
+    <string name="late_fees">Late fees</string>
+    <string name="not_you_">Not you?</string>
+    <string name="_650">$650</string>
+    <string name="_31_days">(31 days)</string>
+    <string name="_61_days">(61 days)</string>
+    <string name="_10_days">(10 days)</string>
+    <string name="_92_days">(92 days)</string>
+    <string name="semi_colon">:</string>
+    <string name="past_payments">Past Payments</string>
+    <string name="jul_rent">Jul rent:</string>
+    <string name="jun_rent">Jun rent</string>
+    <string name="may_rent">May rent:</string>
+    <string name="apr_rent">Apr rent:</string>
+    <string name="mar_rent">Mar rent:</string>
+    <string name="feb_rent">Feb rent:</string>
+    <string name="jan_rent">Jan rent:</string>
+    <string name="dec_rent">Dec rent</string>
+    <string name="move_in_rent">Move-in rent</string>
+    <string name="total_paid">Total Paid</string>
+    <string name="_433_33">$433.33</string>
+    <string name="_5_633_33">$5,633.33</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="would_you_like_">Would you like to set up AutoPay and get $25 off your rent every month?</string>
+    <string name="_2019">2019</string>
+
 
 </resources>

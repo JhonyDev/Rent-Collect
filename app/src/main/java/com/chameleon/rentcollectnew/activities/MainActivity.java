@@ -1,10 +1,12 @@
-package com.chameleon.rentcollectnew;
-
-import androidx.appcompat.app.AppCompatActivity;
+package com.chameleon.rentcollectnew.activities;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
+
+import androidx.appcompat.app.AppCompatActivity;
+
+import com.chameleon.rentcollectnew.R;
 
 public class MainActivity extends AppCompatActivity {
 

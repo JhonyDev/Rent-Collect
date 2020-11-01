@@ -9,12 +9,16 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.RentCollectNew">
-        <activity android:name=".TotalDue"></activity>
-        <activity android:name=".NotYou" />
-        <activity android:name=".TenantDetailsActivity" />
-        <activity android:name=".EnterPhoneNumber" />
-        <activity android:name=".TermsAndConditions" />
-        <activity android:name=".MainActivity">
+        <activity android:name=".activities.BankTransferActivity"></activity>
+        <activity android:name=".activities.OfferActivity" />
+        <activity android:name=".activities.PastPayments" />
+        <activity android:name=".activities.TotalDueReceipt" />
+        <activity android:name=".activities.TotalDue" />
+        <activity android:name=".activities.NotYou" />
+        <activity android:name=".activities.TenantDetailsActivity" />
+        <activity android:name=".activities.EnterPhoneNumber" />
+        <activity android:name=".activities.TermsAndConditions" />
+        <activity android:name=".activities.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
